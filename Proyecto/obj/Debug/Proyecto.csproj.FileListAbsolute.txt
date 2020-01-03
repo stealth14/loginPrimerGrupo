@@ -1,0 +1,11 @@
+C:\Users\Base Datos II\Desktop\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Base Datos II\Desktop\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Base Datos II\Desktop\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Base Datos II\Desktop\Proyecto\obj\Debug\Proyecto.Form3.resources
