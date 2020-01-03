@@ -1,2 +1,2 @@
 # loginPrimerGrupo
-Primer grupo en entrgar
+Primer grupo en entregar
